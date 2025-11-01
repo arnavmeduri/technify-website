@@ -1,5 +1,4 @@
 # Technify Website
-
 Contributors: Arnav Meduri, Faiz Ali, Shravan Selvavel
 
 Developed the official website for Technify, a student-run organization at Duke University providing pro-bono technology consulting for social impact organizations.
