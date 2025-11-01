@@ -8,3 +8,6 @@ Developed the official website for Technify, a student-run organization at Duke 
 
 <img width="1494" height="765" alt="image" src="https://github.com/user-attachments/assets/014bebaf-113f-470f-a3af-3d839e762909" />
 
+<img width="1479" height="806" alt="image" src="https://github.com/user-attachments/assets/9567083f-a26e-4a27-afa9-b377270c0d94" />
+
+
