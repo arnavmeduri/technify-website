@@ -1,2 +1,1 @@
-# technifywebsite
-Internal website for technify 
+# Technify Website
